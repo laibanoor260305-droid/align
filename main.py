@@ -329,6 +329,7 @@ def home():
     </head>
     <body>
         <h2>Find CEO/CTO/CFO of a Company</h2>
+        <h2>Find CEO/CTO/CFO of a Company</h2>
         <input id="company" placeholder="Company (e.g. Google)" />
         <input id="role" placeholder="Role (e.g. CEO)" />
         <button onclick="search()">Find</button>
